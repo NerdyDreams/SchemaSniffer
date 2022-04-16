@@ -1,7 +1,8 @@
 # SchemaSniffer
 A data schema sniffer
 
+# How to run the program
 
-Simply run the main.py
-Enter a valid data source directory
-Check for generated schema
+1. Simply run the main.py
+2. Enter a valid data source directory
+3. Check for generated schema

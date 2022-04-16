@@ -51,7 +51,7 @@ def SchemaSniffer(dataFile):
     return dictOutput
 
 
-
+# output generated schema
 with open("schema_1.json", "w") as outfile:
 
     json.dump(SchemaSniffer(dataFile), outfile, indent=4)

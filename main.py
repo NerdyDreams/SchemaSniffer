@@ -1,6 +1,6 @@
 import json
 
-dataFile = input("Please correct directory and name of data file\n")
+dataFile = input("Please enter correct directory and/or name of data file\n")
 
 
 messageItems = []

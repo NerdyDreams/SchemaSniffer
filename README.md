@@ -4,5 +4,5 @@ A data schema sniffer
 # How to run the program
 
 1. Simply run the main.py file
-2. Enter a valid data source directory
-3. Check for generated schema
+2. On Prompt, enter a valid data source directory such as " data/data_1.json "   (without the quatation marks)
+3. Check for generated schema in same directory
